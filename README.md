@@ -1,4 +1,6 @@
 # 41013 IndustrialRobotic
+<img width="1065" height="611" alt="image" src="https://github.com/user-attachments/assets/eb298df8-66d5-456a-8932-4a77b25720ec" />
+
 
 My repository provides resources for the Robotics simulation in Python (Swift env), including:
 
